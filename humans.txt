@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Patrick Probst> -- <Creator/Developer/Head>
+
+# THANKS
+
+    Alica for beeing the best wife on earth.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JAVASCRIPT, REACT, TYPESCRIPT, ...
