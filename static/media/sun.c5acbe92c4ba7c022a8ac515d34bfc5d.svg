@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <filter id="sofGlow" height="300%" width="300%" x="-75%" y="-75%">
+            <feMorphology operator="dilate" radius="4" in="SourceAlpha" result="thicken"/>
+            <feGaussianBlur in="thicken" stdDeviation="10" result="blurred"/>
+            <feFlood flood-color="rgb(250,200,42)" result="glowColor"/>
+            <feComposite in="glowColor" in2="blurred" operator="in" result="softGlow_colored"/>
+            <feMerge>
+                <feMergeNode in="softGlow_colored"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+    <circle cx="75" cy="75" r="40" fill="yellow" filter="url(#sofGlow)"/>
+
+</svg>

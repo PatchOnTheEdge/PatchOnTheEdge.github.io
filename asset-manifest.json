@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b0b1326a.css",
-    "main.js": "/static/js/main.9863abe4.js",
+    "main.js": "/static/js/main.0248142b.js",
     "static/media/Bild.png": "/static/media/Bild.57a0ff34fa976ec38c6f.png",
     "static/media/andale-mono.ttf": "/static/media/andale-mono.db9d0688d77270b3c3e4.ttf",
     "index.html": "/index.html",
     "static/media/github-mark.svg": "/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
-    "static/media/sun.svg": "/static/media/sun.2d18a1b47d350677ee391c6e6ac2af19.svg",
+    "static/media/sun.svg": "/static/media/sun.c5acbe92c4ba7c022a8ac515d34bfc5d.svg",
     "main.b0b1326a.css.map": "/static/css/main.b0b1326a.css.map",
-    "main.9863abe4.js.map": "/static/js/main.9863abe4.js.map"
+    "main.0248142b.js.map": "/static/js/main.0248142b.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b1326a.css",
-    "static/js/main.9863abe4.js"
+    "static/js/main.0248142b.js"
   ]
 }
